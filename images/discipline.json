@@ -1,0 +1,10 @@
+{
+  "Discipline": [
+			  { "Name":"Nursing" , "UniqueName":"nursing" },
+			  { "Name":"Culinary Art" , "UniqueName":"culinary-art" },
+			  { "Name":"Information Technology" , "UniqueName":"information-technology" },
+			  { "Name":"Business" , "UniqueName":"business" },
+			  { "Name":"Marketing" , "UniqueName":"marketing" },
+			  { "Name":"Nutrition" , "UniqueName":"nutrition" }
+			  ]
+}

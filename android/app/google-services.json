@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883744599029",
+    "firebase_url": "https://vision2025-531b9-default-rtdb.firebaseio.com",
+    "project_id": "vision2025-531b9",
+    "storage_bucket": "vision2025-531b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883744599029:android:c98120137a3c4051bf8ebc",
+        "android_client_info": {
+          "package_name": "com.example.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883744599029-0h0rdg4q35pn47aon119uibfa8h129dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUSYC0Y8nW8GEWt1PrsICqqkpJEKGtPjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883744599029-0h0rdg4q35pn47aon119uibfa8h129dk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883744599029-a4tdej66ff9r7r02e2tm6fgod2irm4ht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Vision2025Test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
